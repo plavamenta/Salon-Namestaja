@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\bin\Debug\Salon.exe.config
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\bin\Debug\Salon.exe
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\bin\Debug\Salon.pdb
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\saloncic.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Glavna2.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Login.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Raspodela.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Sifarnik.resources
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\saloncic.csproj.GenerateResource.cache
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\saloncic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\Salon.exe
+C:\Users\User\Desktop\EDnevnik-main\EDnevnik\EDnevnik\obj\Debug\Salon.pdb
